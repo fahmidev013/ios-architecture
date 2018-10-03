@@ -1,0 +1,45 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DataTransform"
+provides-nominal:
+- "12ObjectMapper13DataTransformC"
+provides-member:
+- ["12ObjectMapper13DataTransformC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "CastingPrecedence"
+- "Data"
+- "DataTransform"
+- "String"
+- "TransformType"
+depends-member:
+- ["12ObjectMapper13DataTransformC", "Data"]
+- ["12ObjectMapper13DataTransformC", "JSON"]
+- ["12ObjectMapper13DataTransformC", "Object"]
+- ["12ObjectMapper13DataTransformC", "String"]
+- ["12ObjectMapper13DataTransformC", "deinit"]
+- ["12ObjectMapper13DataTransformC", "init"]
+- ["12ObjectMapper13TransformTypeP", "Data"]
+- ["12ObjectMapper13TransformTypeP", "JSON"]
+- ["12ObjectMapper13TransformTypeP", "Object"]
+- ["12ObjectMapper13TransformTypeP", ""]
+depends-nominal:
+- "12ObjectMapper13DataTransformC"
+- "12ObjectMapper13TransformTypeP"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2018-09-22-a.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+interface-hash: "43aaf49f6a1cd91792efbdf3ccb772fd"

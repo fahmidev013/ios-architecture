@@ -1,0 +1,575 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireImage-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireImage-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/AlamofireImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireObjectMapper-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireObjectMapper-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/AlamofireObjectMapper/AlamofireObjectMapper-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/AlamofireObjectMapper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/IGListKit/IGListKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IGListAdapter.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListAdapter.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterDataSource.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListAdapterDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListAdapterDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterUpdater.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListAdapterUpdater.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterUpdaterDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListAdapterUpdaterDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAssert.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListAssert.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBatchContext.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListBatchContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBatchUpdateData.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListBatchUpdateData.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBindable.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListBindable.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBindingSectionController.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListBindingSectionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBindingSectionControllerDataSource.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListBindingSectionControllerDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBindingSectionControllerSelectionDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListBindingSectionControllerSelectionDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListCollectionContext.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListCollectionContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListCollectionViewLayout.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListCollectionViewLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListCompatibility.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListCompatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDiff.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListDiff.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDiffKit.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListDiffKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDiffable.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListDiffable.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDisplayDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListDisplayDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListExperiments.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListExperiments.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListGenericSectionController.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListGenericSectionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListIndexPathResult.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListIndexPathResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListIndexSetResult.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListIndexSetResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListKit-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/IGListKit/IGListKit.framework/Headers/IGListKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListKit-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/IGListKit/IGListKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListKit.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListMacros.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListMoveIndex.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListMoveIndex.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListMoveIndexPath.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/IGListMoveIndexPath.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListReloadDataUpdater.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListReloadDataUpdater.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListScrollDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListScrollDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListSectionController.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListSectionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListSingleSectionController.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListSingleSectionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListStackedSectionController.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListStackedSectionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListSupplementaryViewSource.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListSupplementaryViewSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListUpdatingDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListUpdatingDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListWorkingRangeDelegate.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/IGListWorkingRangeDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNumber+IGListDiffable.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/NSNumber+IGListDiffable.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+IGListDiffable.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/NSString+IGListDiffable.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/IGListKit/IGListKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/IGListKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/IGListKit/IGListKit.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IGListAdapter+DebugDescription.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListAdapter+DebugDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapter+UICollectionView.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListAdapter+UICollectionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListAdapterInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterProxy.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListAdapterProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterUpdater+DebugDescription.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListAdapterUpdater+DebugDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapterUpdaterInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListAdapterUpdaterInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBatchUpdateData+DebugDescription.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListBatchUpdateData+DebugDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBatchUpdateState.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListBatchUpdateState.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBatchUpdates.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListBatchUpdates.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListBindingSectionController+DebugDescription.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListBindingSectionController+DebugDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListCollectionViewLayoutInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListCollectionViewLayoutInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDebugger.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListDebugger.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDebuggingUtilities.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListDebuggingUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListDisplayHandler.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListDisplayHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListIndexPathResultInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/Internal/IGListIndexPathResultInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListIndexSetResultInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/Internal/IGListIndexSetResultInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListMoveIndexInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/Internal/IGListMoveIndexInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListMoveIndexPathInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Common/Internal/IGListMoveIndexPathInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListReloadIndexPath.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListReloadIndexPath.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListSectionControllerInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListSectionControllerInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListSectionMap+DebugDescription.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListSectionMap+DebugDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListSectionMap.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListSectionMap.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListStackedSectionControllerInternal.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListStackedSectionControllerInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListWorkingRangeHandler.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/IGListWorkingRangeHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionView+DebugDescription.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/UICollectionView+DebugDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionView+IGListBatchUpdateData.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/IGListKit/Source/Internal/UICollectionView+IGListBatchUpdateData.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Kingfisher-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Kingfisher-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/Kingfisher/Kingfisher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Kingfisher.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Kingfisher/Sources/Kingfisher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ObjectMapper-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ObjectMapper-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/ObjectMapper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Pods_LayoutPrototype.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-LayoutPrototype-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/Pods-LayoutPrototype/Pods-LayoutPrototype-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_LayoutPrototype-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Pods_LayoutPrototype.framework/Headers/Pods_LayoutPrototype-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/Pods_LayoutPrototype.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/Pods-LayoutPrototype.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RxSwift-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RxSwift-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

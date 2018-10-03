@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/guyf4kes/Desktop/Projects/LayoutPrototype/build/Pods.build/Debug-iphonesimulator/RxSwift.build/unextended-module.modulemap',
+    }]
+  }]
+}

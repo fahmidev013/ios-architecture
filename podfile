@@ -1,0 +1,26 @@
+platform :ios, '9.0'
+
+target 'LayoutPrototype' do
+  use_frameworks!
+
+  # Networking
+  pod 'Alamofire' 
+  pod 'AlamofireImage' 
+    
+  # Mapping
+  pod 'AlamofireObjectMapper', '~> 4.0.2' 
+  pod 'SwiftyJSON' , '~> 3.1.4'
+  pod 'Kingfisher', '~> 4.8.1'
+  pod 'RxSwift', '~> 3.6.1'
+  pod 'IGListKit', '~> 3.1.0'
+
+
+end
+
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        target.build_configurations.each do |config|
+            config.build_settings['SWIFT_VERSION'] = '3.0'
+        end
+    end
+end
